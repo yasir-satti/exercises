@@ -1,0 +1,10 @@
+Linux Scripts Module
+Filter & Pipes
+Excercis 1 result:
+china,beijing,rnb,chinese 
+germany,berlin,euro,german 
+france,paris,euro,french 
+italy,rome,euro,italian 
+
+Excercise 2 result:
+italy,rome,euro,italian 
